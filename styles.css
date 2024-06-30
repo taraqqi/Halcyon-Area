@@ -27,7 +27,7 @@ body {
 }
 
 .image-container {
-  flex: 1 1 calc(40% - 16px);
+  flex: 1 1 calc(33.333% - 16px);
   box-sizing: border-box;
   position: relative;
 }
